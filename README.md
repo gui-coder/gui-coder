@@ -5,3 +5,7 @@ gui-coder/gui-coder is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=gui-coder&show_icons=true&theme=github_dark)[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gui-coder&layout=compact&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+![snake gif](https://github.com/gui-coder/gui-coder/blob/output/github-contribution-grid-snake.svg)
